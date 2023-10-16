@@ -13,3 +13,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=irwanadinata&show_icons=true&locale=en&layout=compact" alt="irwanadinata" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=irwanadinata&show_icons=true&locale=en" alt="irwanadinata" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=irwanadinata&" alt="irwanadinata" /></p>
