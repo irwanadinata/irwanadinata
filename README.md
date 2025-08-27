@@ -3,7 +3,7 @@ I am a dedicated and enthusiastic web developer with experience in using JavaScr
 
 - 📫 How to reach me **irwanadinata8@gmail.com**
 
-- 📄 Download My Resume [https://bit.ly/4n15tEy](https://bit.ly/4n15tEy)
+- 📄 Download my resume **[https://bit.ly/4n15tEy](https://bit.ly/4n15tEy)**
 
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/irwanadinata_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/irwanadinata) 
